@@ -1,5 +1,6 @@
 package main
 
+//array x slice?
 import "fmt"
 
 type Book struct {
